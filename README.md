@@ -1,6 +1,24 @@
 # Job Board API
 
-My startup Job Board API
+
+Название проекта: Job Board API
+Краткое описание: REST API, позволяющий компаниям размещать вакансии, а соискателям
+– искать и просматривать их. Будет включать аутентификацию пользователей, хранение
+данных в базе данных и базовую фильтрацию вакансий.
+Технологии:
+
+* Backend: Python, FastAPI, SQLAlchemy, PostgreSQL
+
+* Database: PostgreSQL
+
+* Testing: pytest
+
+* Version Control: Git
+
+* Containerization: Docker
+
+* Cloud : Deploy на Heroku/AWS Elastic Beanstalk/Google App Engine.
+
 
 HOW TO START BACKEND IN JOB BOARD API
 
